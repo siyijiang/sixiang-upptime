@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://sixiang.world/img/icons/icon-192.png
   name: 四象监控
   introTitle: "**四象监控** 基于Upptime的监控站"
-  introMessage: 四象监控负责监控sixiang.world的状态
+  introMessage: 四象监控负责监控sixiang.world的状态，由基于GitHub action的Upptime服务搭建
   navbar:
     - title: 首页
       href: /
